@@ -1,0 +1,8 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"LED_E1","Closed","SJ",-46.475000,53.525000,90.000000,bottom
+"Logo-OLimeX","","OLIMEX_LOGO_TB",-64.380000,63.590000,-90.000000,bottom
+"PHY_RST1","Opened","SJ",-36.135488,39.301500,90.000000,bottom
+"Sign-Antistatic","Val**","LOGO_ANTISTATIC_1",-58.644500,58.645500,180.000000,bottom
+"Sign-RecyclBin","","LOGO_RECYCLEBIN_1",-57.422500,51.827000,180.000000,bottom
+"Sign_Pb-Free","","LOGO_PBFREE",-69.700000,8.930000,0.000000,bottom
+"Sign_RoHS","Val**","LOGO_ROHS_1",-69.754500,1.426500,180.000000,bottom

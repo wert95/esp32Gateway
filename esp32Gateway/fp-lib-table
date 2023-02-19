@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Libraries")(type "KiCad")(uri "F:/Compressed/SparkFun-KiCad-Libraries-master/SparkFun-KiCad-Libraries-master/Libraries")(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"LED","Closed","SJ",-46.475000,53.525000,90.000000,bottom
+"RESET","Opened","SJ",-36.135488,39.301500,90.000000,bottom
+"Sign-Antistatic","Val**","LOGO_ANTISTATIC_1",-71.092000,41.885500,180.000000,bottom
+"Sign-RecyclBin","","LOGO_RECYCLEBIN_1",-69.910000,51.927000,180.000000,bottom
+"Sign_Pb-Free","","LOGO_PBFREE",-54.623200,55.714960,0.000000,bottom
+"Sign_RoHS","Val**","LOGO_ROHS_1",-65.660000,34.986500,180.000000,bottom
